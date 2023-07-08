@@ -1,3 +1,5 @@
+* About
+The wuxia community, despite being large, suffers from a lack of toolset to satisfy the needs of the community. This open source project aims to resolve one such necessity - the need for a wuxia library.
 * Features
 - [X] User Registration & Authentication
 - [X] Book Library API
