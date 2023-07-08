@@ -1,0 +1,8 @@
+* Features
+- [X] User Registration & Authentication
+- [X] Book Library API
+- [X] Proxy Server
+- [ ] Web scraping on wuxia sites
+- [ ] Recomemndation Algorithm
+- [ ] Adding frontend
+
